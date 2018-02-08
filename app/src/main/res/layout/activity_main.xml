@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="xyz.zhenhua.slideableview.MainActivity">
+
+    <xyz.zhenhua.slidablelayout.SlidableLayout
+        android:id="@+id/slideablelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/img" />
+            <ImageView
+                android:layout_centerHorizontal="true"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/img1"
+                android:background="@drawable/img" />
+        </RelativeLayout>
+    </xyz.zhenhua.slidablelayout.SlidableLayout>
+
+</android.support.constraint.ConstraintLayout>
