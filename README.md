@@ -5,7 +5,7 @@ A slidable custome layout library for Android.
 
 ## Features
 
-![gif](http://o8adsxziw.bkt.clouddn.com/slidelayout.gif)
+![gif](https://github.com/2acharyW/Resource/raw/master/gif/slidelayout.gif)
 
 ## Demo
 
