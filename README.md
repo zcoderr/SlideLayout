@@ -32,7 +32,7 @@ compile 'xyz.zhenhua:slidelayout:1.0.2'
 
 ## Usage
 
-###### Simple:
+###### Sample:
 
 ```xml
 <xyz.zhenhua.slidablelayout.SlidableLayout
