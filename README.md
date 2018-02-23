@@ -1,5 +1,5 @@
 # SlideLayout
-A slidable custome layout library for Android.
+* A viewgroup which child view have elastic drag effect. *
 
 [![License](https://camo.githubusercontent.com/e5f0d52475ce71aa1caf8ff4aa3e036dd5b9f811/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d677265656e2e737667)](https://www.apache.org/licenses/LICENSE-2.0)[ ![Download](https://api.bintray.com/packages/zacharywang/maven/slidelayout/images/download.svg?version=1.0.2)](https://bintray.com/zacharywang/maven/slidelayout/1.0.2/link)
 
